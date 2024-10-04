@@ -7,7 +7,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.7.18</version>
-		<relativePath />
+		<relativePath/>
 	</parent>
 
 	<groupId>com.jeesite</groupId>
@@ -22,7 +22,7 @@
 	<properties>
 
 		<!-- common version setting -->
-		<commons-io.version>2.13.0</commons-io.version>
+		<commons-io.version>2.14.0</commons-io.version>
 		<commons-text.version>1.10.0</commons-text.version>
 		<commons-email.version>1.5</commons-email.version>
 
@@ -40,7 +40,7 @@
 		<jmimemagic.version>0.1.5</jmimemagic.version>
 		<zxing.version>3.5.3</zxing.version>
 
-		<poi.version>5.2.3</poi.version>
+		<poi.version>5.2.5</poi.version>
 		<pinyin4j.version>2.5.1</pinyin4j.version>
 		<groovy.version>3.0.17</groovy.version>
 		<bcprov.version>1.78.1</bcprov.version>
@@ -349,7 +349,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
